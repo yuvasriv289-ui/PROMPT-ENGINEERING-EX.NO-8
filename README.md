@@ -94,6 +94,7 @@ Observation
 The generated image effectively captures the mood and lighting of the original image. Fur texture and pose are slightly different, but overall similarity is high.
 
 Images:
+
 <img width="754" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3ffdba7-7637-4df9-a8ae-942c61f29eca" />
 
 <img width="751" height="1024" alt="image (1)" src="https://github.com/user-attachments/assets/a6c0287b-2c8b-4b5f-82ed-3fbe2c511761" />
