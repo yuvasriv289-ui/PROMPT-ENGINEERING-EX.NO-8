@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :25\12\2025
+# Reg. No:25008890
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +48,58 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+Prompt:
+
+Image 1: Sunset Mountain Landscape
+Original Image Description
+The image shows a peaceful natural landscape with mountains in the background, a river flowing through the center, trees along the riverbank, and a colorful sunset sky.
+
+1)Basic Prompt
+
+A landscape with mountains and a river.
+
+2) Refined Prompt
+
+A serene mountain landscape during sunset with tall purple mountains in the background, a calm river flowing through the center, trees along the riverbank, and a warm golden-orange sky reflecting on the water, realistic style.
+
+3)Final Prompt Used
+
+A serene mountain landscape at sunset, featuring tall purple and blue mountains in the distance, a calm reflective river in the foreground, green trees along the riverbanks, warm golden-orange clouds in the sky, soft natural lighting, ultra-realistic digital art style.
+
+<img width="725" height="275" alt="s1" src="https://github.com/user-attachments/assets/dab7c499-dc0f-42d7-997d-dc4e1d1da461" />
+
+Observation
+
+The generated image closely resembles the original image in terms of color palette, composition, and mood. Minor differences are seen in tree placement and river width.
+
+
+Image 2: Cat Sitting Near a Window
+Original Image Description
+The image shows a cat sitting near a window with sunlight coming inside, creating a warm and cozy atmosphere.
+Basic Prompt
+
+A cat sitting near a window.
+
+Step 3: Refined Prompt
+
+A fluffy cat sitting near a window with sunlight shining inside.
+
+Step 4: Final Prompt Used
+
+A realistic photo of a fluffy brown and white cat sitting near a window, warm sunlight streaming through the glass, soft shadows on the floor, cozy indoor atmosphere, high detail, natural lighting.
+
+<img width="725" height="276" alt="s2" src="https://github.com/user-attachments/assets/d220c6f8-dc4e-4e0c-85e9-d17fe63f8f4a" />
+
+Observation
+The generated image effectively captures the mood and lighting of the original image. Fur texture and pose are slightly different, but overall similarity is high.
+
+Images:
+<img width="754" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3ffdba7-7637-4df9-a8ae-942c61f29eca" />
+
+<img width="751" height="1024" alt="image (1)" src="https://github.com/user-attachments/assets/a6c0287b-2c8b-4b5f-82ed-3fbe2c511761" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
